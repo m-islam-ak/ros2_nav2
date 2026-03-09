@@ -1,0 +1,1 @@
+/home/mahmudul/ros2_ws/src/robo_world/build/robo_world/ament_cmake_core/robo_worldConfig-version.cmake
